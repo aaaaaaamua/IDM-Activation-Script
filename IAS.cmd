@@ -8,7 +8,7 @@
 ::
 ::   IDM Activation Script
 ::
-::   Homepages: https://github.com/Astro-Saurav/-IDM-Activation-Script
+::   Homepages: https://github.com/Astro-Saurav/-IDM-Activation-Script [local_change]to safe code
 ::
 ::============================================================================
 
@@ -909,3 +909,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
